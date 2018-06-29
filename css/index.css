@@ -1,0 +1,23 @@
+body{
+	font-family: 'Roboto Condensed', sans-serif;	
+}
+
+a{
+	color: #6969B3;
+}
+
+.navbar-default {
+    background-color:#6969B3;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
